@@ -2,4 +2,4 @@ NAME=iana-etc
 VERSION=2.30
 REVISION=1
 SRC=http://anduin.linuxfromscratch.org/LFS/iana-etc-2.30.tar.bz2
-MD5SUM=3ba3afb1d1b261383d247f46cb135ee8
+SRCMD5=3ba3afb1d1b261383d247f46cb135ee8
